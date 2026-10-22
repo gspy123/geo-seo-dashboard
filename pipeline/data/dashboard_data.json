@@ -1,30 +1,30 @@
 {
   "kpis": {
-    "ai_visibility_index": 74.9,
-    "citation_rate": 47.9,
-    "mention_count": 27,
-    "sentiment_score": 72.8,
-    "referral_traffic": 3580,
-    "structural_health": 77.5,
-    "record_date": "2026-10-21"
+    "ai_visibility_index": 75.0,
+    "citation_rate": 47.4,
+    "mention_count": 24,
+    "sentiment_score": 78.2,
+    "referral_traffic": 4082,
+    "structural_health": 85.0,
+    "record_date": "2026-10-22"
   },
   "kpis_real": {
-    "ai_visibility_index": 16.9,
+    "ai_visibility_index": 20.6,
     "citation_rate": 0.0,
     "mention_count": 0,
-    "sentiment_score": 56.2,
+    "sentiment_score": 68.8,
     "referral_traffic": 0,
     "structural_health": 100.0,
-    "record_date": "2026-10-21"
+    "record_date": "2026-10-22"
   },
   "kpi_changes": {
-    "visibility_change": 2.7,
-    "citation_change": 1.0,
-    "mention_change": 52,
-    "sentiment_change": 4.5,
-    "traffic_change": -12.0,
-    "health_change": -1.9,
-    "comparison_period": "2026-10-07 ~ 2026-10-21"
+    "visibility_change": 2.5,
+    "citation_change": 0.6,
+    "mention_change": 4,
+    "sentiment_change": -5.5,
+    "traffic_change": 17.0,
+    "health_change": -1.2,
+    "comparison_period": "2026-10-08 ~ 2026-10-22"
   },
   "kpi_changes_real": {
     "visibility_change": 0,
@@ -33,15 +33,15 @@
     "sentiment_change": 0,
     "traffic_change": 0,
     "health_change": 0,
-    "comparison_period": "2026-10-07 ~ 2026-10-21"
+    "comparison_period": "2026-10-08 ~ 2026-10-22"
   },
   "trend": [
     {
-      "date": "2026-10-21",
-      "avg_visibility": 16.9,
+      "date": "2026-10-22",
+      "avg_visibility": 20.6,
       "avg_citation_rate": 0.0,
       "total_mentions": 0,
-      "avg_sentiment": 0.125,
+      "avg_sentiment": 0.375,
       "total_traffic": 0
     }
   ],
@@ -50,24 +50,24 @@
     {
       "platform": "chatgpt",
       "platform_name": "ChatGPT",
-      "date": "2026-10-21",
-      "visibility_score": 92.3,
-      "citation_rate": 61.4,
-      "mention_count": 3,
-      "avg_sentiment": 0.49,
-      "referral_traffic": 730,
-      "authority_score": 69.6,
-      "freshness_score": 90.1,
+      "date": "2026-10-22",
+      "visibility_score": 92.6,
+      "citation_rate": 61.7,
+      "mention_count": 8,
+      "avg_sentiment": 0.736,
+      "referral_traffic": 633,
+      "authority_score": 66.1,
+      "freshness_score": 96.7,
       "data_source": "demo"
     },
     {
       "platform": "deepseek",
       "platform_name": "DeepSeek",
-      "date": "2026-10-21",
-      "visibility_score": 16.9,
+      "date": "2026-10-22",
+      "visibility_score": 20.6,
       "citation_rate": 0.0,
       "mention_count": 0,
-      "avg_sentiment": 0.125,
+      "avg_sentiment": 0.375,
       "referral_traffic": 0,
       "authority_score": 100.0,
       "freshness_score": 100.0,
@@ -76,53 +76,53 @@
     {
       "platform": "doubao",
       "platform_name": "豆包",
-      "date": "2026-10-21",
-      "visibility_score": 98.9,
-      "citation_rate": 65.9,
-      "mention_count": 4,
-      "avg_sentiment": 0.411,
-      "referral_traffic": 676,
-      "authority_score": 87.2,
-      "freshness_score": 92.0,
+      "date": "2026-10-22",
+      "visibility_score": 98.2,
+      "citation_rate": 65.2,
+      "mention_count": 2,
+      "avg_sentiment": 0.519,
+      "referral_traffic": 420,
+      "authority_score": 89.3,
+      "freshness_score": 89.7,
       "data_source": "demo"
     },
     {
       "platform": "kimi",
       "platform_name": "Kimi",
-      "date": "2026-10-21",
-      "visibility_score": 82.7,
-      "citation_rate": 55.4,
+      "date": "2026-10-22",
+      "visibility_score": 79.8,
+      "citation_rate": 52.5,
       "mention_count": 5,
-      "avg_sentiment": 0.445,
-      "referral_traffic": 876,
-      "authority_score": 79.8,
-      "freshness_score": 98.5,
+      "avg_sentiment": 0.587,
+      "referral_traffic": 365,
+      "authority_score": 91.7,
+      "freshness_score": 95.2,
       "data_source": "demo"
     },
     {
       "platform": "perplexity",
       "platform_name": "Perplexity",
-      "date": "2026-10-21",
-      "visibility_score": 72.3,
-      "citation_rate": 47.4,
-      "mention_count": 8,
-      "avg_sentiment": 0.865,
-      "referral_traffic": 959,
-      "authority_score": 67.1,
-      "freshness_score": 94.1,
+      "date": "2026-10-22",
+      "visibility_score": 74.9,
+      "citation_rate": 50.0,
+      "mention_count": 5,
+      "avg_sentiment": 0.306,
+      "referral_traffic": 1229,
+      "authority_score": 73.9,
+      "freshness_score": 85.7,
       "data_source": "demo"
     },
     {
       "platform": "wenxin",
       "platform_name": "文心一言",
-      "date": "2026-10-21",
-      "visibility_score": 86.0,
-      "citation_rate": 57.2,
-      "mention_count": 7,
-      "avg_sentiment": 0.395,
-      "referral_traffic": 339,
-      "authority_score": 61.0,
-      "freshness_score": 96.9,
+      "date": "2026-10-22",
+      "visibility_score": 84.0,
+      "citation_rate": 55.2,
+      "mention_count": 4,
+      "avg_sentiment": 0.859,
+      "referral_traffic": 1435,
+      "authority_score": 89.0,
+      "freshness_score": 95.8,
       "data_source": "demo"
     }
   ],
@@ -138,7 +138,7 @@
       "authority_level": "A",
       "data_freshness": "实时",
       "status": "优秀",
-      "last_updated": "2026-10-21T08:14:52.683717",
+      "last_updated": "2026-10-22T08:16:22.163947",
       "data_source": "demo"
     },
     {
@@ -152,7 +152,7 @@
       "authority_level": "A",
       "data_freshness": "实时",
       "status": "优秀",
-      "last_updated": "2026-10-21T08:14:52.625688",
+      "last_updated": "2026-10-22T08:16:22.122672",
       "data_source": "demo"
     },
     {
@@ -166,7 +166,7 @@
       "authority_level": "B+",
       "data_freshness": "24h",
       "status": "良好",
-      "last_updated": "2026-10-21T08:14:52.723887",
+      "last_updated": "2026-10-22T08:16:22.204613",
       "data_source": "demo"
     },
     {
@@ -180,7 +180,7 @@
       "authority_level": "B+",
       "data_freshness": "24h",
       "status": "良好",
-      "last_updated": "2026-10-21T08:14:52.765231",
+      "last_updated": "2026-10-22T08:16:22.244760",
       "data_source": "demo"
     },
     {
@@ -194,25 +194,25 @@
       "authority_level": "B",
       "data_freshness": "24h",
       "status": "待优化",
-      "last_updated": "2026-10-21T08:14:52.904043",
+      "last_updated": "2026-10-22T08:16:22.288741",
       "data_source": "demo"
     },
     {
       "platform": "deepseek",
       "platform_name": "DeepSeek",
-      "visibility_score": 16.9,
+      "visibility_score": 20.6,
       "citation_count": 0,
       "citation_rank": null,
-      "sentiment_score": 0.125,
+      "sentiment_score": 0.375,
       "referral_traffic": 0,
       "authority_level": "A",
       "data_freshness": "实时",
       "status": "待优化",
-      "last_updated": "2026-10-21T08:14:52.261619",
+      "last_updated": "2026-10-22T08:16:21.810148",
       "data_source": "real"
     }
   ],
-  "exported_at": "2026-10-21T08:14:52.915076",
+  "exported_at": "2026-10-22T08:16:22.298338",
   "data_quality": {
     "real_platforms": [
       "deepseek"
